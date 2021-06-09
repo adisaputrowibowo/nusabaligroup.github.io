@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.my-carou{
+    max-height: 700px;
+}
+
+.my-card{
+    cursor: pointer;
+}
+
+
+.footer{
+    background-color: rgb(33 37 41);
+}
+
+.line-footer {
+    border: 0.2px solid rgb(228, 228, 228);
+  }
+
+  .warna-abu{
+      color: rgb(170, 170, 170);
+      text-decoration: none;
+  }
